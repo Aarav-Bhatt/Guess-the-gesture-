@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    color: blueviolet;
+    font-weight: bold;
+}
+#maindiv{
+    background-color: coral;
+    color: red;
+    font-weight: bold;
+
+}
+
+#centre{
+    background-color: blue;
+    color: lig;
+    font-weight: bold;
+}
+#webcam{
+    float: left;
+}
+#webcam1{
+    float: right;
+}
